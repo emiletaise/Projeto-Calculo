@@ -1,4 +1,4 @@
-# Projeto Cálculo
+# Projeto Cálculo Diferencial Aplicado à Computação
 
 QUESTÃO:
 
